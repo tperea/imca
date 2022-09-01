@@ -1,15 +1,16 @@
-Visor de modelos 3d para ilustrar modos de falla de miembros de acero
+Visor de modelos 3D para ilustrar modos de falla de miembros de acero
 =========================================================================
 
-This repository contains the source code for the site. See
-[Setting up a development environment](https://aisc-org.github.io/aisc-model-viewer/docs/#Setting-up-a-development-environment)
-for information on building the site from these sources.
+Este siotio contiene el código fuente del visor. 
+Ver [configuración]
+(https://aisc-org.github.io/aisc-model-viewer/docs/#Setting-up-a-development-environment)
+para más información de este sitio.
 
 
-Manual
+Manual de usuario
 ------------
 
-Ver el [manual](https://aisc-org.github.io/aisc-model-viewer/docs/#Getting-started) por más detalles.
+Ver el [manual de usuario](https://aisc-org.github.io/aisc-model-viewer/docs/#Getting-started) para más detalles.
 
 
 Créditos
