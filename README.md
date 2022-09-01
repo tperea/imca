@@ -1,4 +1,4 @@
-Three-Dimensional Model Viewer for Illustrating Structural Steel Concepts
+Visor de modelos 3d para ilustrar modos de falla de miembros de acero
 =========================================================================
 
 This repository contains the source code for the site. See
@@ -6,16 +6,14 @@ This repository contains the source code for the site. See
 for information on building the site from these sources.
 
 
-Contributing
+Manual
 ------------
 
-See [the documentation](https://aisc-org.github.io/aisc-model-viewer/docs/#Getting-started) for more details.
+Ver el [manual](https://aisc-org.github.io/aisc-model-viewer/docs/#Getting-started) por más detalles.
 
 
-About
------
+Créditos
+------------
 
-This project was developed by Mark Denavit and Peter Talley at the University of
-Tennessee, Knoxville. Funding for this project was provided by the American
-Institute of Steel Construction (AISC) through the Teaching Aid Development
-Program.
+Mark Denavit y Peter Talley de la University of Tennessee, Knoxville. 
+Proyecto patrocinado por el AISC.
